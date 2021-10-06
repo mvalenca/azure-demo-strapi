@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_general_resources",
+  "info": {
+    "name": "Resource",
+    "icon": "ad",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Key": {
+      "type": "string"
+    },
+    "Value": {
+      "type": "string"
+    }
+  }
+}
